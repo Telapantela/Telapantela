@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HyperText Markup Language, Cascading Style Sheets and JavaScript.**
 
-- 📫 How to reach me **dusan.kostic37@gmail.com** or meet me at the club.
+- 📫 How to reach me **dusan.kostic37@gmail.com** || meet me at the club.
 
 - ⚡ **I have a deep passion for exploring both emerging and established technologies. I hold great admiration for the capabilities of web frameworks like Angular, and in particular, Three.js!**
 
