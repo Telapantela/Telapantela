@@ -1,9 +1,9 @@
-<h1 align="center">Hey there my gorgeous friends on the internet. 🔥</h1>
+<h1 align="center">Hey there my gorgeous friends on the internet 🔥</h1>
 <h3 align="center">I'm Dušan Spasojević 👋 Front-end web developer from Belgrade, Serbia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=telapantela&label=Profile%20views&color=0e75b6&style=flat" alt="telapantela" /> </p>
 
-- 🌱 I’m currently learning **Angular and Three.js.**
+- 🌱 I’m currently learning **Angular and Three.js**
 
 - 📝 I regularly write articles on [dusanspasojevic.com](dusanspasojevic.com)
 
