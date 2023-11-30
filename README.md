@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dušan Spasojević</h1>
+<h1 align="center">Howdy gorgeous people of the internet 🔥, I'm Dušan Spasojević. 👋</h1>
 <h3 align="center">Front-end web developer from Belgrade, Serbia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=telapantela&label=Profile%20views&color=0e75b6&style=flat" alt="telapantela" /> </p>
