@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=telapantela&label=Profile%20views&color=0e75b6&style=flat" alt="telapantela" /> </p>
 
-- 🌱 I’m currently learning **Angular and Three.js**
+- 🌱 I’m currently learning **Angular and Three.js.**
 
 - 📝 I regularly write articles on [dusanspasojevic.com](dusanspasojevic.com)
 
