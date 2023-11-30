@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dusan.kostic37@gmail.com** or meet me at the club.
 
-- ⚡ Facts about me **I have a deep passion for exploring both emerging and established technologies. I hold great admiration for the capabilities of web frameworks like Angular, and in particular, Three.js!**
+- ⚡ **I have a deep passion for exploring both emerging and established technologies. I hold great admiration for the capabilities of web frameworks like Angular, and in particular, Three.js!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
