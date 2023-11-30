@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dusan.kostic37@gmail.com** or meet me at the club.
 
-- ⚡ Fun fact **The world's largest desert is not the Sahara, but Antarctica. While we often associate deserts with hot, sandy environments, a desert is technically defined by its low precipitation levels. Antarctica receives very little precipitation, and it's the driest and windiest continent on Earth, making it the largest desert by this definition. Despite its icy reputation, Antarctica is indeed a desert!**
+- ⚡ About me **I have a deep passion for exploring both emerging and established technologies. I hold great admiration for the capabilities of web frameworks like Angular, Astro, and, in particular, Three.js. Let's connect and innovate together!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
