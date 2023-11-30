@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HyperText Markup Language, Cascading Style Sheets and JavaScript.**
 
-- 📫 How to reach me **dusan.kostic37@gmail.com**
+- 📫 How to reach me **dusan.kostic37@gmail.com** or meet me at the club.
 
 - ⚡ Fun fact **The world's largest desert is not the Sahara, but Antarctica. While we often associate deserts with hot, sandy environments, a desert is technically defined by its low precipitation levels. Antarctica receives very little precipitation, and it's the driest and windiest continent on Earth, making it the largest desert by this definition. Despite its icy reputation, Antarctica is indeed a desert!**
 
