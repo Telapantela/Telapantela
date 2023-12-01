@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles about **JS, HTML5, and CSS3 on [dusanspasojevic.com](dusanspasojevic.com)**
 
-- 💬 Ask me about **HyperText Markup Language, Cascading Style Sheets and JavaScript.**
+- 💬 Ask me about **HyperText Markup Language, Cascading Style Sheets and, JavaScript.**
 
 - 📫 How to reach me ****dusan.kostic37@gmail.com** || meet me at the club.**
 
