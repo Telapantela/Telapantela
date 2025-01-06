@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=telapantela&label=Profile%20views&color=0e75b6&style=flat" alt="telapantela" /> </p>
 
-- 📝 I regularly write articles about **JS, HTML5, and CSS3 on [dusanspasojevic.com](dusanspasojevic.com)**
+- 📝 I regularly write articles about **HTML5, SEO and SEM on [dusanspasojevic.com](dusanspasojevic.com)**
 
 - 💬 Ask me about **HyperText Markup Language, Cascading Style Sheets, and JavaScript.**
 
-- 📫 How to reach me ****dusan.kostic37@gmail.com** || meet me at the club.**
+- 📫 How to reach me ****dusanspasojevic.com**
 
 - ⚡ **I have a deep passion for exploring both emerging and established technologies. I hold great admiration for the capabilities of web frameworks like Angular, and in particular, Three.js!**
 
