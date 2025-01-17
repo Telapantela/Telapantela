@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋</h1>
-<h3 align="center">I'm Dušan Spasojević, a web developer from Belgrade, Serbia.</h3>
+<h3 align="center">I'm Dušan Spasojević, a web developer and SEO specialist from Belgrade, Serbia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=telapantela&label=Profile%20views&color=0e75b6&style=flat" alt="telapantela" /> </p>
 
