@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles about **HTML5, SEO and SEM on [https://www.seomissioncontrol.com/](https://www.seomissioncontrol.com/) & [https://www.dusanspasojevic.com/](https://www.dusanspasojevic.com/)**
 
-- 💬 Ask me about **HyperText Markup Language, Cascading Style Sheets, and JavaScript.**
+- 💬 Ask me about **HyperText Markup Language, JavaScript, and SEO.**
 
 - 📫 How to reach me **[dusanspasojevic.com](dusanspasojevic.com) || meet me at the club**
 
