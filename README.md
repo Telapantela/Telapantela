@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=telapantela&label=Profile%20views&color=0e75b6&style=flat" alt="telapantela" /> </p>
 
-- 📝 I regularly write articles about **HTML5, SEO and SEM on [https://www.seomissioncontrol.com/](https://www.seomissioncontrol.com/) & [https://www.dusanspasojevic.com/](https://www.dusanspasojevic.com/)**
+- 📝 I regularly write articles about **HTML5, SEO and SEM on [https://www.seomissioncontrol.com](https://www.seomissioncontrol.com) & [https://www.dusanspasojevic.com](https://www.dusanspasojevic.com)**
 
 - 💬 Ask me about **HyperText Markup Language, JavaScript, and SEO.**
 
