@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=telapantela&label=Profile%20views&color=0e75b6&style=flat" alt="telapantela" /> </p>
 
-- 📝 I regularly write articles about **HTML5, SEO and SEM on [SEO Mission Control](https://www.seomissioncontrol.com) & [Dusan Spasojevic](https://www.dusanspasojevic.com)**
+- 📝 I regularly write articles about **HTML5, JavaScript and Search Engine Optimization on [SEO Mission Control](https://www.seomissioncontrol.com) & [Dusan Spasojevic](https://www.dusanspasojevic.com).**
 
 - 💬 Ask me about **HyperText Markup Language, JavaScript, and SEO.**
 
-- 📫 How to reach me **[SEO Mission Control](https://www.seomissioncontrol.com) || [dusanspasojevic.com](dusanspasojevic.com) || meet me at the club**
+- 📫 How to reach me **[SEO Mission Control](https://www.seomissioncontrol.com) || [dusanspasojevic.com](dusanspasojevic.com) || meet me at the club.**
 
 - ⚡ **I have a deep passion for exploring both emerging and established technologies. I hold great admiration for the capabilities of web frameworks like Angular, and in particular, Three.js!**
 
