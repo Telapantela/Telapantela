@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HyperText Markup Language, JavaScript, and Search Engine Optimization.**
 
-- 📫 How to reach me **[SEO Mission Control](https://www.seomissioncontrol.com) || [dusanspasojevic.com](dusanspasojevic.com) || meet me at the club.**
+- 📫 How to reach me **[SEO Mission Control](https://www.seomissioncontrol.com) || [Dusan Spasojevic](dusanspasojevic.com) || meet me at the club.**
 
 - ⚡ **I have a deep passion for exploring both emerging and established technologies. I hold great admiration for the capabilities of web frameworks like Angular, and in particular, Three.js!**
 
