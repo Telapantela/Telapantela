@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles about **On-Page and Off-Page Search Engine Optimization on [SEO Mission Control](https://www.seomissioncontrol.com) & [Dusan Spasojevic](https://www.dusanspasojevic.com).**
 
-- 💬 Ask me about **HyperText Markup Language, JavaScript, and Search Engine Optimization.**
+- 💬 Ask me about **HyperText Markup Language and Search Engine Optimization.**
 
 - 📫 How to reach me **[SEO Mission Control](https://www.seomissioncontrol.com) || [Dusan Spasojevic](dusanspasojevic.com) || meet me at the club.**
 
