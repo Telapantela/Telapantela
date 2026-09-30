@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=telapantela&label=Profile%20views&color=0e75b6&style=flat" alt="telapantela" /> </p>
 
-- 📝 I regularly write articles about **Technical SEO on [SEO Mission Control](https://www.seomissioncontrol.com) & [Dusan Spasojevic](https://www.dusanspasojevic.com).**
+- 📝 I regularly write articles about **Technical SEO on [SEO Mission Control](https://www.seomissioncontrol.com) and [Dusan Spasojevic](https://www.dusanspasojevic.com).**
 
 - 💬 Ask me about **JavaScript and Search Engine Optimization.**
 
